@@ -212,3 +212,5 @@ result/
 result_ZSDA/
 .vscode/
 .idea/
+__pycache__/
+*.pyc
